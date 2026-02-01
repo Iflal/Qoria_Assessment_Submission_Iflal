@@ -109,10 +109,7 @@ pip install -r requirements.txt
 ### Step 2: Configure Credentials
 ```powershell
 # Set environment variable to point to your service account key
-$env:GOOGLE_APPLICATION_CREDENTIALS="c:\Users\<YourName>\Desktop\Qoria_Assessment\key.json"
-
-# Verify credentials
-gcloud auth application-default login  # Optional, if key.json not available
+$env:GOOGLE_KEY_PATH="key.json"
 ```
 
 ### Step 3: Update Configuration (if needed)
