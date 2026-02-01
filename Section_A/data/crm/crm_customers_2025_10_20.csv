@@ -1,0 +1,5 @@
+customer_id,first_name,last_name,email,loyalty_status,city,country,updated_at
+C1001,Anna,Lopez,anna.lopez@example.com,Gold,New York,USA,2025-10-20T08:00:00Z
+C1002,Mark,Chen,mark.chen@example.com,Silver,Los Angeles,USA,2025-10-20T08:00:00Z
+C1003,Sarah,Lee,sarah.lee@example.com,Platinum,Singapore,SG,2025-10-20T08:00:00Z
+C1004,John,Kumar,john.kumar@example.com,Bronze,Kuala Lumpur,MY,2025-10-20T08:00:00Z

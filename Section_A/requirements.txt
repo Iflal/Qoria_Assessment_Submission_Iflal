@@ -1,0 +1,6 @@
+google-cloud-bigquery
+google-cloud-storage
+google-cloud-pubsub
+apache-beam[gcp]
+apache-airflow-providers-google
+pytest

@@ -1,0 +1,3 @@
+{"order_id": "O9001", "customer_id": "C1002", "store_id": "ONLINE", "total_amount": 120.50, "payment_type": "CARD", "timestamp": "2025-10-20T07:10:12Z"}
+{"order_id": "O9002", "customer_id": "C1003", "store_id": "ONLINE", "total_amount": 45.90, "payment_type": "WALLET", "timestamp": "2025-10-20T07:12:15Z"}
+{"order_id": "O9003", "customer_id": "C1001", "store_id": "ONLINE", "total_amount": 199.99, "payment_type": "CARD", "timestamp": "2025-10-20T07:15:00Z"}

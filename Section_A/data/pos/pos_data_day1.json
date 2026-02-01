@@ -1,0 +1,5 @@
+{"transaction_id": "TXN001", "store_id": "S001", "customer_id": "C1001", "event_type": "purchase", "amount": 45.75, "currency": "USD", "timestamp": "2025-10-20T09:12:34Z"}
+{"transaction_id": "TXN002", "store_id": "S001", "customer_id": "C1002", "event_type": "purchase", "amount": 17.99, "currency": "USD", "timestamp": "2025-10-20T09:15:12Z"}
+{"transaction_id": "TXN003", "store_id": "S002", "customer_id": "C1003", "event_type": "return", "amount": -10.00, "currency": "USD", "timestamp": "2025-10-20T09:16:02Z"}
+{"transaction_id": "TXN004", "store_id": "S002", "customer_id": "C1004", "event_type": "purchase", "amount": 55.50, "currency": "USD", "timestamp": "2025-10-20T09:21:45Z"}
+{"transaction_id": "TXN005", "store_id": "S001", "customer_id": "C1005", "event_type": "purchase", "amount": 88.10, "currency": "USD", "timestamp": "2025-10-20T09:25:11Z"}
